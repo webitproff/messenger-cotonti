@@ -14,6 +14,8 @@ The Messenger 1.0.0 plugin is a Telegram-style messenger for a Cotonti site: per
 ---
 
 <img width="1672" height="941" alt="messenger-cotonti-by-webitproff" src="https://github.com/user-attachments/assets/22559c33-ea33-4205-ab9e-01ca520ab1c3" />
+<img width="1289" height="996" alt="messenger-cotonti-by-webitproff_2026-11-18 10 43 59" src="https://github.com/user-attachments/assets/060cf4bd-48c9-43b7-900d-d038cefd1c28" />
+<img width="1285" height="993" alt="messenger-cotonti-by-webitproff_2026-11-18 10 44 00" src="https://github.com/user-attachments/assets/96a5dba1-d9cf-476e-8654-46d9a3d70f1b" />
 
 ---
 
