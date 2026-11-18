@@ -1,6 +1,6 @@
 # Messenger Plugin 1.0.0 Guide for Cotonti
 
-The Messenger 1.0.0 plugin is a Telegram-style messenger for a Cotonti site: personal dialogs, group chats by invitation, an unread counter in the header, and popup notifications on any page. The guide is divided into three independent parts, and each can be read separately.
+The Messenger 1.0.0 plugin is a Telegram-style messenger for a Cotonti site: personal dialogs, group chats by invitation, an unread counter in the header, and popup notifications on any page. 
 
 ---
 
