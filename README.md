@@ -19,6 +19,13 @@ The Messenger 1.0.0 plugin is a Telegram-style messenger for a Cotonti site: per
 
 ---
 
+> ### This repository contains a simple, free Telegram-style messaging plugin for Cotonti.
+
+> **A paid version with extended features, including end-to-end encryption, is also available. Please contact the developer directly using the contact details provided in their profile.**
+
+---
+
+
 | Part | For whom | What's inside |
 | --- | --- | --- |
 | 1 | Regular registered site user | How to find a chat, write, invite someone, what the icons and counters mean, what limitations exist. No code. |
